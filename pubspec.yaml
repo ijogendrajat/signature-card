@@ -1,7 +1,7 @@
 name: signature_card
-description: "A new Flutter package project."
+description: "Digital Signature Card Box"
 version: 0.0.1
-homepage:
+homepage: https://github.com/ijogendrajat/signature-card
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
